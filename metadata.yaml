@@ -1,0 +1,31 @@
+_repo: The-motion-picture-comrades-aboard-a-submarine-or-Searching-for-treasure-under-the-sea_69368
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Barnes, Elmer Tracey
+    gutenberg_agent_id: '55231'
+    url: http://www.gutenberg.org/2009/agents/55231
+description: ''
+gutenberg_issued: '2022-11-17'
+identifiers:
+  gutenberg: '69368'
+language: en
+pgterms:marc904: https://digital.library.villanova.edu/Item/vudl:724039
+pgterms:marc905: 20220707101052barnes
+pgterms:marc906: '1917'
+pgterms:marc907: us
+production_note: Demian Katz, Craig Kirkwood, and the Online Distributed Proofreading
+  Team at https://www.pgdp.net (Images courtesy of the Digital Library@Villanova University.)
+publication_note: 'United States: The New York Book Company,1917.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+series_note: The motion picture comrades series, no. 4.
+subjects:
+- !lcsh 'Submarines (Ships) -- Juvenile fiction'
+- !lcsh 'Motion pictures -- Production and direction -- Juvenile fiction'
+- !lcc 'PZ'
+- GITenberg
+title: "The motion picture comrades aboard a submarine\r\nor, Searching for treasure\
+  \ under the sea"
+url: http://www.gutenberg.org/ebooks/69368
