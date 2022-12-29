@@ -1,11 +1,16 @@
 _repo: The-motion-picture-comrades-aboard-a-submarine-or-Searching-for-treasure-under-the-sea_69368
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 69368-h/images/cover.jpg
 creator:
   author:
     agent_name: Barnes, Elmer Tracey
     gutenberg_agent_id: '55231'
     url: http://www.gutenberg.org/2009/agents/55231
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/69368#The-motion-picture-comrades-aboard-a-submarine-or-Searching-for-treasure-under-the-sea
 gutenberg_issued: '2022-11-17'
 identifiers:
   gutenberg: '69368'
